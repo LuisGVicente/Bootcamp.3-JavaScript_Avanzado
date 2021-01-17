@@ -1,0 +1,12 @@
+{
+  "name": "ejercicios-js-jest-consola-logica",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@babel/plugin-transform-modules-commonjs": "^7.9.0",
+    "jest": "^25.3.0"
+  }
+}
